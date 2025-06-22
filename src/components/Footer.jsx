@@ -22,18 +22,15 @@ export default function Footer() {
         <div className="contact-info">
           <h3>Contacts</h3>
           <span className="span-sec5">
-            {/* <img src="" alt="" /> */}
             <p>
               1234 Sample Street
               <br /> Austin Texas 78704
             </p>
           </span>
           <span>
-            {/* <img src="" alt="" /> */}
             <p>512-333-2222</p>
           </span>
           <span>
-            {/* <img src="" alt="" /> */}
             <p>sampleemailemail@gmail.com</p>
           </span>
         </div>
