@@ -19,7 +19,6 @@ export default function App() {
             <Route path="/Contacts" element={<Contacts />} />
             <Route path="/Certifications" element={<Certifications />} />
             <Route path="/Projects" element={<Projects />} />
-            <Route path="/SampleProject" element={<SampleProject />} />
           </Routes>
         </main>
       </div>
