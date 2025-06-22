@@ -4,9 +4,8 @@ import Gallery from "./pages/Gallery";
 import Contacts from "./pages/Contact";
 import Projects from "./pages/Project";
 import Certifications from "./pages/Certification";
-import Navlist from "./components/navlist";
-import Footer from "./components/footer";
-import SampleProject from "./pages/sampleProject";
+import Navlist from "./components/Navlist";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
