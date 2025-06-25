@@ -153,9 +153,9 @@ nav li {
 .stacked-images {
   display: flex;
   gap: 1.5rem;
-  flex-direction: column;
+  flex-direction: columncd;
 }
-.right-content {
+/* .right-content {
   grid-column: 3;
   display: grid;
   grid-template-columns: auto 1fr;
@@ -163,6 +163,12 @@ nav li {
   align-content: center;
   align-self: center;
   height: fit-content;
+} */
+
+.right-content {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 2rem;
 }
 .about-paragraph-text {
   line-height: 2rem;
