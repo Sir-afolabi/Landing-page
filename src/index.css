@@ -391,7 +391,7 @@ nav li {
     flex-direction: column-reverse;
     gap: 1rem;
     min-height: 40vh;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0.2rem;
   }
 
   .viewProject {
@@ -444,7 +444,7 @@ nav li {
   }
   .section-2-container {
     margin-top: 3rem;
-    padding-left: 5px;
+    padding-left: 0 0.2rem;
   }
   .section-2-container::before {
     bottom: 0;
@@ -510,7 +510,7 @@ nav li {
 
   .section4-container {
     margin-top: 0.5rem;
-    padding: 0 1rem;
+    padding: 0 0.1rem;
   }
   .sect-4-header {
     margin-bottom: 2rem;
@@ -533,7 +533,7 @@ nav li {
   }
   .section5-container {
     margin-top: 3rem;
-    padding: 0 1rem;
+    padding: 0 0.2rem;
   }
   /* footer */
   .footer {
@@ -565,8 +565,8 @@ nav li {
   }
 
   .project-container {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
   }
   .gallery-grid-container img {
     width: 100%;
@@ -599,8 +599,8 @@ nav li {
     flex-direction: column;
     gap: 8rem;
     padding-bottom: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
   }
   .h1-span-contact {
     letter-spacing: 0;
