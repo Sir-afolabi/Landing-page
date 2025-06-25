@@ -436,14 +436,14 @@ nav li {
   .section-2 {
     display: flex;
     flex-direction: column-reverse;
-    gap: 2rem;
+    gap: 1rem;
     padding-top: 2rem;
     padding-left: 20px;
     padding-bottom: 2.2rem;
     width: 100%;
   }
   .section-2-container {
-    margin-top: 5rem;
+    margin-top: 3rem;
     padding-left: 5px;
   }
   .section-2-container::before {
@@ -451,12 +451,13 @@ nav li {
   }
   .right-content {
     display: flex;
+    gap: 1rem;
     flex-direction: column-reverse;
   }
 
   .stacked-images {
     width: 100%;
-    gap: 2.5rem;
+    gap: 1.5rem;
     display: flex;
     flex-direction: column;
   }
@@ -474,7 +475,7 @@ nav li {
   .section-3 {
     margin-top: 2rem;
     padding-left: 10px;
-    min-height: 70vh;
+    min-height: 60vh;
   }
   .mission {
     display: flex;
@@ -508,7 +509,7 @@ nav li {
   /* section4 */
 
   .section4-container {
-    margin-top: 4rem;
+    margin-top: 0.5rem;
     padding: 0 1rem;
   }
   .sect-4-header {
@@ -556,10 +557,11 @@ nav li {
     padding-top: 4rem;
   }
   /* Gallery styles */
+
   .gallery-grid-container {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 1rem;
   }
 
   .project-container {
